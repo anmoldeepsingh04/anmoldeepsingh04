@@ -42,5 +42,5 @@ Python/C++/PyTorch/OpenFOAM
 
 ## 🔗 Links
 
-[Website](https://anmoldeepsingh04.github.io/) •
+[Website](https://anmoldeepsingh04.github.io/)    
 [LinkedIn](https://www.linkedin.com/in/anmoldeepsingh04/)
