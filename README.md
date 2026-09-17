@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 Computational researcher working at the intersection of physics, machine learning, and scientific computing.
 
-MSc Computational Science & Engineering @ TUM, Germany
-Research Engineer @ Thermax Ltd, India
+MSc Computational Science & Engineering @ TUM, Germany    
+Research Engineer @ Thermax Ltd, India    
 B.Tech Mechanical Engineering @ IIT Goa, India
 
-SciML/CFD/HPC/AI for Science  
+SciML/CFD/HPC/AI for Science    
 Python/C++/PyTorch/OpenFOAM
 
 ## Research Interests
@@ -36,9 +36,9 @@ Python/C++/PyTorch/OpenFOAM
 ## Currently Working On
 
 - Computational materials design with Python
-- Neural networks from scratch in C++
+- LLMs from scratch in C++
 - Scientific ML for physical simulations
-- Parallel programming & HPC
+- Parallel programming
 
 ## 🔗 Links
 
